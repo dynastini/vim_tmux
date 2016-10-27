@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/dyn/git_local/openssh-portable'
+let g:netrw_dirhist_2='/home/dyn'
+let g:netrw_dirhist_3='/home/dyn/git_local'
+let g:netrw_dirhist_4='/home/dyn/git_local/qBittorrent'
+let g:netrw_dirhist_5='/home/dyn/git_local/qBittorrent/src'
+let g:netrw_dirhist_6='/home/dyn/git_local/qBittorrent/src/base'
+let g:netrw_dirhist_7='/home/dyn/git_local/qBittorrent/src'
+let g:netrw_dirhist_8='/home/dyn/git_local/qBittorrent'
+let g:netrw_dirhist_9='/home/dyn'

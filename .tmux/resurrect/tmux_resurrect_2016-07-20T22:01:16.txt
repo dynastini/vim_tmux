@@ -1,0 +1,7 @@
+pane	0	0	:bash	1	:*	0	:/home/dyn/.vim/bundle	1	bash	:
+pane	0	1	:bash	0	:-	0	:/home/dyn	1	bash	:
+pane	1	0	:vim	1	:*	0	:/home/dyn	1	vim	:vim /home/dyn/.tmux.conf
+window	0	0	1	:*	c07d,169x44,0,0,0
+window	0	1	0	:-	c07e,169x44,0,0,1
+window	1	0	1	:*	c07f,169x44,0,0,2
+state	1	

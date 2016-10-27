@@ -1,0 +1,6 @@
+pane	0	0	:bash	1	:*	0	:/home/dyn	0	vim	:vim -S
+pane	0	0	:bash	1	:*	1	:/home/dyn	1	bash	:
+pane	0	1	:bash	0	:-	0	:/home/dyn	1	bash	:
+window	0	0	1	:*	7fcc,169x45,0,0{84x45,0,0,1,84x45,85,0,2}
+window	0	1	0	:-	c480,169x45,0,0,3
+state	0	0

@@ -1,0 +1,11 @@
+pane	0	0	:bash	1	:*	0	:/home/dyn/.vim/bundle	1	bash	:
+pane	0	1	:bash	0	:-	0	:/home/dyn	1	bash	:
+pane	1	0	:vim	1	:*	0	:/home/dyn	1	vim	:vim /home/dyn/.tmux.conf
+pane	1	1	:bash	0	:-	0	:/home/dyn/git_local/qBittorrent	1	bash	:
+pane	1	2	:bash	0	: 	0	:/home/dyn	1	bash	:
+window	0	0	1	:*	c07e,169x44,0,0,1
+window	0	1	0	:-	c07f,169x44,0,0,2
+window	1	0	1	:*	c080,169x44,0,0,3
+window	1	1	0	:-	c081,169x44,0,0,4
+window	1	2	0	: 	c082,169x44,0,0,5
+state	1	0
